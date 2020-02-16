@@ -1,0 +1,11 @@
+C:\Users\kdeag\RiderProjects\MyUnityGameServer\bin\Debug\netcoreapp3.0\MyUnityGameServer.exe
+C:\Users\kdeag\RiderProjects\MyUnityGameServer\bin\Debug\netcoreapp3.0\MyUnityGameServer.deps.json
+C:\Users\kdeag\RiderProjects\MyUnityGameServer\bin\Debug\netcoreapp3.0\MyUnityGameServer.runtimeconfig.json
+C:\Users\kdeag\RiderProjects\MyUnityGameServer\bin\Debug\netcoreapp3.0\MyUnityGameServer.runtimeconfig.dev.json
+C:\Users\kdeag\RiderProjects\MyUnityGameServer\bin\Debug\netcoreapp3.0\MyUnityGameServer.dll
+C:\Users\kdeag\RiderProjects\MyUnityGameServer\bin\Debug\netcoreapp3.0\MyUnityGameServer.pdb
+C:\Users\kdeag\RiderProjects\MyUnityGameServer\obj\Debug\netcoreapp3.0\MyUnityGameServer.csprojAssemblyReference.cache
+C:\Users\kdeag\RiderProjects\MyUnityGameServer\obj\Debug\netcoreapp3.0\MyUnityGameServer.AssemblyInfoInputs.cache
+C:\Users\kdeag\RiderProjects\MyUnityGameServer\obj\Debug\netcoreapp3.0\MyUnityGameServer.AssemblyInfo.cs
+C:\Users\kdeag\RiderProjects\MyUnityGameServer\obj\Debug\netcoreapp3.0\MyUnityGameServer.dll
+C:\Users\kdeag\RiderProjects\MyUnityGameServer\obj\Debug\netcoreapp3.0\MyUnityGameServer.pdb

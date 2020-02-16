@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kdeag\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kdeag\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_MyUnityGameServer.506165711.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kdeag\RiderProjects\MyUnityGameServer" t="IncludeRecursive">
+      <e p="App.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ByteBuffer.cs" t="Include" />
+      <e p="Client.cs" t="Include" />
+      <e p="ClientsManager.cs" t="Include" />
+      <e p="DataReceiver.cs" t="Include" />
+      <e p="DataSender.cs" t="Include" />
+      <e p="MyUnityGameServer.csproj" t="IncludeRecursive" />
+      <e p="MyUnityGameServer.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="MyUnityGameServer.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="ServerHandleData.cs" t="Include" />
+      <e p="UnityServer.cs" t="Include" />
+    </e>
+  </component>
+</project>
